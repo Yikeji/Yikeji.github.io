@@ -8,7 +8,7 @@
 # Site settings
 title: HyG
 brief-intro: Front-end Dev Engineer
-baseurl: "https://github.com/yigege98/jike5.github.io" # the subpath of your site, e.g. /blog
+baseurl: "/jike5.github.io" # the subpath of your site, e.g. /blog
 url: "https://github.com/yigege98/jike5.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
