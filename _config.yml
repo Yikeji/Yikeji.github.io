@@ -9,7 +9,7 @@
 title: HyG
 brief-intro: Front-end Dev Engineer
 baseurl: "/Yikeji.github.io" # the subpath of your site, e.g. /blog
-url: "https://github.com/Yikeji/Yikeji.github.io" # the base hostname & protocol for your site
+url: "https://github.com/Yikeji.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
