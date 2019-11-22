@@ -14,14 +14,14 @@ url: "https://github.com/Yikeji.github.io" # the base hostname & protocol for yo
 permalink: /:year/:month/:day/:title/
 
 # other links
-twitter_username: gaohaoyang126
-facebook_username: gaohaoyang.water
-github_username:  Gaohaoyang
-email: gaohaoyang126@126.com
-weibo_username: 3115521wh
-zhihu_username: gaohaoyang
-linkedIn_username: gaohaoyang
-dribbble_username:
+#twitter_username: gaohaoyang126
+#facebook_username:
+github_username:  Yikeji
+email: yldyyn@163.com
+weibo_username: 写代码的懿
+#zhihu_username: gaohaoyang
+#linkedIn_username: gaohaoyang
+#dribbble_username:
 
 description_footer: 本站记录我前端之旅的沿途风景！
 
