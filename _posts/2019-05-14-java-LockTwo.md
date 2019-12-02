@@ -485,3 +485,7 @@ public final boolean release(int arg) {
 共享锁：可以有多个线程同时获得锁。
 
 关于独享锁和共享锁，你明白了吗？
+
+我是懿，一个正在被打击却努力前进的码农,欢迎大家关注我的公众号，懿一，每天为大家送上技术文章，各位看官，你准备好了么？
+
+![](http://www.chuyikeji.cn/image/yi.jpg)

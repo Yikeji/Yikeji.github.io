@@ -242,3 +242,6 @@ public class ReentrantLock implements Lock, java.io.Serializable {
 
 
 
+我是懿，一个正在被打击却努力前进的码农,欢迎大家关注我的公众号，懿一，每天为大家送上技术文章，各位看官，你准备好了么？
+
+![](http://www.chuyikeji.cn/image/yi.jpg)

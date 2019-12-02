@@ -479,9 +479,9 @@ threshold = DEFAULT_LOAD_FACTOR * threshold(当前的容量)
 
 看完这个源码，翻译了一节节的英文，算是大致明白了一点源码内容了，有什么讨论的问题咱们可以一起讨论一下，感谢观看。
 
-我是懿，欢迎大家关注我的公众号，懿一，每天为大家送上技术文章，各位看官，你准备好了么？
+我是懿，一个正在被打击却努力前进的码农,欢迎大家关注我的公众号，懿一，每天为大家送上技术文章，各位看官，你准备好了么？
 
-![](http://www.congyikeji.cn/picture/yi.jpg)
+![](http://www.chuyikeji.cn/image/yi.jpg)
 
 
 
